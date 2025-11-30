@@ -1,8 +1,10 @@
 # 사용법
-## 프로젝트 클론
+## 프로젝트 설정
 ```
 git clone https://github.com/Last-Dance-2025/ember-sentinel-ai.git
 cd ember-sentinel-ai
+python -m venv venv
+source ./venv/bin/activate
 pip install -r requirements.txt
 ```
 ## 데이터셋 다운로드
