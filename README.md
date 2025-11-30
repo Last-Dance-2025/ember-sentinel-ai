@@ -29,5 +29,5 @@ unzip ./experiments/yolov11n.zip
 
 ## 추론
 ```
-python yolo/inference.py
+python inference.py
 ```
