@@ -1,0 +1,7 @@
+PyYAML==6.0.3
+tqdm==4.67.1
+numpy==2.2.6
+scikit-learn==1.7.2
+ncnn==1.0.20250916
+ultralytics==8.3.230
+ultralytics-thop==2.0.18
